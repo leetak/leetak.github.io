@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>https://leetak.github.io/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>/sales/</loc>
+     <loc>https://leetak.github.io/sales/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>/accommodation/</loc>
+     <loc>https://leetak.github.io/accommodation/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,7 +27,7 @@
 
     
     <url>
-     <loc>/route/</loc>
+     <loc>https://leetak.github.io/route/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -35,7 +35,7 @@
 
     
     <url>
-     <loc>/applications/</loc>
+     <loc>https://leetak.github.io/applications/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -43,7 +43,7 @@
 
     
     <url>
-     <loc>/mobile/</loc>
+     <loc>https://leetak.github.io/mobile/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -52,31 +52,31 @@
     
         
     <url>
-     <loc>/transport/avia/</loc>
+     <loc>https://leetak.github.io/transport/avia/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/transport/car/</loc>
+     <loc>https://leetak.github.io/transport/car/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/transport/bus/</loc>
+     <loc>https://leetak.github.io/transport/bus/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/transport/railway/</loc>
+     <loc>https://leetak.github.io/transport/railway/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/transport/sea/</loc>
+     <loc>https://leetak.github.io/transport/sea/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -85,7 +85,7 @@
 
     
     <url>
-     <loc>/tour-operators/</loc>
+     <loc>https://leetak.github.io/tour-operators/</loc>
      <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
